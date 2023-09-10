@@ -38,6 +38,16 @@ h1 {
     letter-spacing: 3px;
 }
 
+menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+menu > li {
+    margin-bottom: 1em;
+}
+
 /* Main */
 main {
     background-color: #ffffff;
