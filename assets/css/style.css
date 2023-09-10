@@ -19,7 +19,11 @@ body {
 
 /* Header */
 header {
-    background-color: #FFFFFF
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 h1 {
@@ -28,12 +32,12 @@ h1 {
 
 /* Main */
 main {
-    background-color: #FFFFFF
+    background-color: #ffffff;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: #FFFFFF
+    background-color: #ffffff;
 }
