@@ -22,6 +22,10 @@ header {
     background-color: #FFFFFF
 }
 
+h1 {
+    font-family: 'Lora', serif;
+}
+
 /* Main */
 main {
     background-color: #FFFFFF
