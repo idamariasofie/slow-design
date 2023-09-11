@@ -55,9 +55,9 @@ h1 {
     border-bottom: 1px solid #000000;
 }
 
-/* Navbar styles with dropdown */
+/* Navbar styles with dropdown toggle */
 nav {
-
+    position: absolute;
     background-color: #ffffff;
     color: #000000;
     width: 100%;
@@ -65,6 +65,20 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #000000;
     display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 
