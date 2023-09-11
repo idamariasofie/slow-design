@@ -27,7 +27,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-
 }
 
 header a {
@@ -42,7 +41,7 @@ h1 {
     letter-spacing: 3px;
 }
 
-menu {
+#menu {
     font-size: 100%;
     letter-spacing: 3px;
     list-style-type: none;
@@ -54,8 +53,9 @@ menu {
 
 /* Navbar styles with dropdown */
 nav {
-    position: absolute;
+
     background-color: #ffffff;
+    color: #000000;
     width: 100%;
     left: 0;
     padding: 0 1rem;
