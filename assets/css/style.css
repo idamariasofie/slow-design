@@ -51,6 +51,10 @@ h1 {
     margin-bottom: 1em;
 }
 
+.active {
+    border-bottom: 1px solid #000000;
+}
+
 /* Navbar styles with dropdown */
 nav {
 
