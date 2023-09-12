@@ -160,6 +160,24 @@ color: #ffffff;
         margin-top: 79px;   
     }
 
+/* Info sections with images and text */
+
+.container {
+  width: 100%;
+}
+
+.column1 {
+  float: left;
+  width: 50%;
+  margin: 20px auto;
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  margin: 20px auto;
+}
+
     /* Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
         #menu a:hover{
