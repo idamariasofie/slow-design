@@ -110,6 +110,11 @@ margin-top: 200px;
 color: #ffffff;
 }
 
+/* Info page with photos */
+#photos img {
+    width: 100%;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -123,6 +128,13 @@ color: #ffffff;
     font-size: 160%;
     padding: 5%;
     color: #000000;
+}
+
+/* Media query : large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+#photos {
+    column-count: 2;
+    column-gap: 0;
 }
 
 /* Media query : tablets and larger (768px and up) */
@@ -155,7 +167,13 @@ color: #ffffff;
         margin: 0 0.5rem;
     }
 
-    /* Main content */
+/* Info page with photos */
+#photos {
+    column-count: 3;
+}
+        }
+
+/* Main content */
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;   
@@ -179,10 +197,14 @@ color: #ffffff;
   margin: 20px auto;
 }
 
-    /* Large devices (laptops and desktops, 992px and up) */
+/* Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
         #menu a:hover{
             border-bottom: 1px solid #000000;
         }
-    }
+/* Info page with photos */
+#photos {
+    column-count: 4;
 }
+    }
+
