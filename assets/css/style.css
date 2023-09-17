@@ -124,7 +124,7 @@ background-position: 75%;
 
 #subscribe-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: #000000;
     padding: 30px;
 }
 
@@ -135,7 +135,7 @@ background-position: 75%;
 
 .text-input {
     background: transparent;
-    color: #ffffff;
+    color: #000000;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -217,7 +217,7 @@ background-position: 75%;
         margin-top: 79px;   
     }
 
-/* Info sections with images and text */
+/* Info section with brand images and text */
 
 .container {
   width: 100%;
@@ -234,6 +234,29 @@ background-position: 75%;
   width: 50%;
   margin: 20px auto;
 }
+  /* Subscribe form */
+  #signup {
+      background-position: center;
+      position: relative;
+  }
+
+  #signup-form {
+      max-width: 400px;
+      position: absolute;
+      left: 10%;
+      top: 150px;
+  }
+
+  .text-input:hover {
+      border-color: #000000;
+  }
+
+  .join-button:hover {
+      background-color: #ffffff;
+      color: #000000;
+  }
+
+
 
 /* Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
