@@ -59,7 +59,8 @@ header a {
     list-style-type: none;
 }
 
-#menu>li {
+#menu> li {
+    margin-top: 1em;
     margin-bottom: 1em;
 }
 
