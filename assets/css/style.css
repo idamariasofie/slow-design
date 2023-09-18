@@ -30,9 +30,9 @@ h3 {
 
 p {
     font-family: 'Lora', serif;
-        color: #000000;
-        letter-spacing: 3px;
-        margin-left: 7px;
+    color: #000000;
+    letter-spacing: 3px;
+    margin-left: 7px;
 }
 
 /* Header */
@@ -59,7 +59,7 @@ header a {
     list-style-type: none;
 }
 
-#menu> li {
+#menu>li {
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -241,7 +241,7 @@ main {
             display: flex;
         }
 
-        #menu > li {
+        #menu>li {
             padding-left: 1rem;
         }
 
@@ -311,9 +311,6 @@ main {
 
     /* Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
-        #menu a:hover {
-            border-bottom: 1px solid #000000;
-        }
 
         /* Info page with photos */
         #photos {
