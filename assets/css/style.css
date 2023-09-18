@@ -25,6 +25,14 @@ h3 {
     text-transform: uppercase;
     color: #000000;
     letter-spacing: 3px;
+    margin-left: 7px;
+}
+
+p {
+    font-family: 'Lora', serif;
+        color: #000000;
+        letter-spacing: 3px;
+        margin-left: 7px;
 }
 
 /* Header */
