@@ -160,7 +160,7 @@ main {
     height: 100%;
 }
 
-/* Info page with selected sustainable brands*/
+/* Info page with selected sustainable brands */
 #photos img {
     width: 100%;
     line-height: 2em;
@@ -206,6 +206,12 @@ line-height: 5;
     font-size: 100%;
     background-color: #000000;
     color: #ffffff;
+}
+/* Photo on subscribe page */
+#picture img {
+float: right;
+margin: 50px 30px 15px 15px;
+padding: 5px;
 }
 
 /* Footer */
