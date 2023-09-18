@@ -137,19 +137,18 @@ height: auto;
 
 /* Subscribe form */
 #subscribe { 
-background-image: url("../images/charlesdeluvio-Dilfan21P8o-unsplash.jpg");
 background-size: 50%;
 background-position: 75%;
 }
 
 #subscribe-form {
-    color: #ffffff;
-    background-color: #000000;
+    color: #000000;
+    background-color: #ffffff;
     padding: 30px;
 }
 
 #subscribe-form>h3 {
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 20px;
 }
 
@@ -169,8 +168,8 @@ background-position: 75%;
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 /* Footer */
