@@ -235,14 +235,13 @@ main {
             width: fit-content;
             box-shadow: none;
             padding-right: 1rem;
-
         }
 
         #menu {
             display: flex;
         }
 
-        #menu>li {
+        #menu > li {
             padding-left: 1rem;
         }
 
