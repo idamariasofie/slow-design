@@ -163,6 +163,11 @@ main {
 /* Info page with selected sustainable brands*/
 #photos img {
     width: 100%;
+    line-height: 2em;
+}
+
+#photos {
+line-height: 5;
 }
 
 /* Subscribe form */
