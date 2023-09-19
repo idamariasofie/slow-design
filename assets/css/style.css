@@ -31,8 +31,6 @@ h3 {
 p {
     font-family: 'Lora', serif;
     color: #000000;
-    letter-spacing: 3px;
-    margin-left: 7px;
 }
 
 /* Header */
@@ -59,7 +57,7 @@ header a {
     list-style-type: none;
 }
 
-#menu>li {
+#menu > li {
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -141,7 +139,7 @@ main {
     height: auto;
 }
 
-#text>h2 {
+#text > h2 {
     color: #000000;
 }
 
@@ -163,11 +161,12 @@ main {
 /* Info page with selected sustainable brands */
 #photos img {
     width: 100%;
-    line-height: 2em;
+    line-height: 0.5em;
+    margin-top: 0.5em;
 }
 
 #photos {
-    line-height: 5;
+    line-height: 2;
 }
 
 /* Subscribe form */
