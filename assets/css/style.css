@@ -234,7 +234,7 @@ main {
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
-        column-gap: 0;
+        column-gap: 2;
     }
 
     /* Media query : tablets and larger (768px and up) */
