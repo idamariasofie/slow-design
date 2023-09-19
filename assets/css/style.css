@@ -167,7 +167,7 @@ main {
 }
 
 #photos {
-line-height: 5;
+    line-height: 5;
 }
 
 /* Subscribe form */
@@ -207,11 +207,12 @@ line-height: 5;
     background-color: #000000;
     color: #ffffff;
 }
+
 /* Photo on subscribe page */
 #picture img {
-float: right;
-margin: 50px 30px 15px 15px;
-padding: 5px;
+    float: right;
+    margin: 50px 30px 15px 15px;
+    padding: 5px;
 }
 
 /* Footer */
