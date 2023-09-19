@@ -195,8 +195,7 @@ main {
 
 /* Photo on subscribe page */
 #picture img {
-    float: right;
-    margin: 50px 30px 15px 15px;
+    width: 100%;
     padding: 5px;
 }
 
