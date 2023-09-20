@@ -156,11 +156,6 @@ main {
 }
 
 /* Subscribe form */
-#subscribe {
-    background-size: 50%;
-    background-position: 75%;
-}
-
 #subscribe-form {
     color: #000000;
     background-color: #ffffff;
@@ -175,7 +170,7 @@ main {
 .text-input {
     background: transparent;
     color: #000000;
-    width: 50%;
+    width: 40%;
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #000000;
