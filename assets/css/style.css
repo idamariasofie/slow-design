@@ -18,9 +18,7 @@ body {
     font-family: 'Lora', serif;
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3 {
     font-family: 'Lora', serif;
     text-transform: uppercase;
     color: #000000;
@@ -98,6 +96,9 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero section */
@@ -259,7 +260,6 @@ main {
     }
 
     /* Info section with brand images and text */
-
     .container {
         width: 100%;
     }
