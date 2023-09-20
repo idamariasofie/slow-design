@@ -32,6 +32,11 @@ p {
     font-family: 'Lora', serif;
     color: #000000;
     margin-left: 7px;
+    margin-bottom: 20px;
+}
+
+hr.solid {
+border-top: 3px, solid, #3a3a3a
 }
 
 /* Header */
