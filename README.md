@@ -56,6 +56,18 @@ In the footer section there are several ways to contact Slow Design via their so
 Make all content user friendly on different devices:
 By using suitable media queries and checking these throughout the process, the website is designed with a focus on mobile first. Using flexbox to adapt wider screen content down to smaller sized content. 
 
+## User stories 
+Below are three descriptions of personas I visualized when designing the Slow Design website. 
+
+Persona 1:
+30-55 years, education in design/ architecture/ lifestyle. Has a personal interest in Slow living and creating a better life with high quality products as a part of it. 
+
+Persona 2: 
+30-65 years, educator within the field of design, want to be informed about the latest updates within sustainable design and what is coming next. Upcoming brands etc.
+
+Persona 3:
+20- 65 years, working with trend-forecasting, with a focus on the Scandinavian market. Wants to stay updated on several fields of design. 
+
 # Design
 The idea was to keep the aesthetic aligned with the concept of Slow Design. Less is more, with a focus on clean and minimalistic design. I also wanted the website to have a feeling of a printed magazine, therefore I chose to use a serif font. Which is typically used for printed magazines. 
 
@@ -150,6 +162,9 @@ HTML and CSS
 **Google chrome** - Slow design was built and tested with Google Chrome 
 
 **Cloud convert** - was used for converting jpg images to webp better suitable for the page
+
+**Coolors** - Was used for creating a color palette 
+
 
 # Deployment 
 
