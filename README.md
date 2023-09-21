@@ -1,10 +1,8 @@
 # Slow Design
 
-This is the static website of Slow Design. A printed magazine with 4 annual copies. It is designed to be responsive on all devices and to show the idea behind the magazine and get the user to sign up to the subscription. 
-
+This is the static website of Slow Design. A print and digital publication dedicated to Slow Design. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription. 
 
 # Content
-
 
  - Target audience
 	 - User experience
