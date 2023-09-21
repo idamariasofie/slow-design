@@ -69,7 +69,7 @@ My wireframes for the website was designed in Balsamiq. I have used the original
 
 # Features
 
-## General features on each page
+## General features 
 
 Navbar
 Below are two views of the navbar on the desktop view and the responsive mobile view, where it transforms into a hamburger menu. 
