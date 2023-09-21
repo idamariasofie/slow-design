@@ -1,6 +1,6 @@
 # Slow Design
 
-This is the static website of Slow Design. A print and digital publication dedicated to Slow Design, a collaborative way of designing and creating products made to last longer. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community, with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription.
+This is the static website of Slow Design [https://idamariasofie.github.io/slow-design/](https://idamariasofie.github.io/slow-design/). . A print and digital publication dedicated to Slow Design, a collaborative way of designing and creating products made to last longer. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community, with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription.
 
 # Content
 
