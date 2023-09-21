@@ -192,17 +192,24 @@ Click the Fork button in the top right corner.
 All pages have been tested on 
 
 ### Jigsaw CSS validator 
+Jigsaw was used to validate the css code 
 
 <img width="1301" alt="Skärmavbild 2023-09-22 kl  00 53 28" src="https://github.com/idamariasofie/slow-design/assets/142444139/920e9272-ba83-46b6-a831-99a017d86fce">
 
 Pass after testing CSS 
 
 ### W3C validator 
+W3C was used to validate the HTML on all pages of the website
+
+index.html - pass
 
 <img width="1420" alt="Skärmavbild 2023-09-21 kl  23 00 56" src="https://github.com/idamariasofie/slow-design/assets/142444139/29000a73-b4bf-4378-bd4b-9b4a15bb1fad">
 
+info.html - pass
+
 <img width="1427" alt="Skärmavbild 2023-09-21 kl  23 01 17" src="https://github.com/idamariasofie/slow-design/assets/142444139/c2f66902-7df9-40ff-b770-72979ded5eb5">
 
+subscribe.html - pass
 <img width="1416" alt="Skärmavbild 2023-09-21 kl  23 01 52" src="https://github.com/idamariasofie/slow-design/assets/142444139/552e4686-9677-4165-a554-2ec902e6b7da">
 
 
