@@ -186,10 +186,19 @@ main {
 }
 
 /* Subscribe form */
+#subscribe {
+    background-image: url("../images/yana-hurska-zeGT9j4ltRA-unsplash.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
 #subscribe-form {
     color: #000000;
-    background-color: #ffffff;
-    padding: 30px;
+    background-color: transparent;
+    padding: 1px;
 }
 
 #subscribe-form>h3 {
