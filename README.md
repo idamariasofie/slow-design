@@ -79,16 +79,6 @@ On landing page I wanted to create a feeling of the
 
 # Technology
 
-**Github** - Used for storage of my site and for publishing online.  
-**Codeanywhere** - The IDE used for editing my site and pushing changes.  
-**Python** - Used python 3 via terminal to preview my site using a local http server.  
-**HTML5** - The core of the site was built with HTML version 5.  
-**CSS** - CSS was used to style the website and define fonts and layout.  
-**Youtube** - Videos embedded from Youtube.  
-**Font Awesome** - Social Media icons from Font Awesome.  
-**Google Chrome** - The website was built and tested in google Chrome.  
-**TinyPNG Website** - Used to compress images so they load faster.  
-**Codebeautify Website** - Used to clean up css and html code  
 
 ## Languages
 HTML and CSS 
