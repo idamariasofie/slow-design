@@ -57,7 +57,7 @@ p {
 }
 
 hr.solid {
-    border-top: 3px, solid, #3a3a3a
+    border-top: 3px solid #3a3a3a;
 }
 
 /* Header */
@@ -249,7 +249,7 @@ main {
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
-        column-gap: 2;
+        column-gap: 1em;
     }
 
     .text-input {
@@ -364,7 +364,7 @@ main {
         #photos {
             column-count: 4;
         }
-        
+
         .text-input {
             background: transparent;
             color: #000000;
@@ -376,3 +376,4 @@ main {
             padding: 0 5px;
         }
     }
+}
