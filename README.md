@@ -107,16 +107,15 @@ HTML and CSS
 ## Frameworks and libraries
 
 ### Github
-Codeanywhere - the IDE for coding and pushing all changes
-Github - for storage of my website
-Python - via terminal to preview my website
-HTML5 - the core was built using HTML version 5
-CSS - was used to style the website
-Youtube - embedded a link to a youtube video on the landing page about Slow design
-Font awesome - I used icons and font from Font awesome
-Google chrome - Slow design was built and tested with Google Chrome
-Cloud convert - was used for converting jpg images to webp better suitable for the page
-
+**Codeanywhere** - the IDE for coding and pushing all changes 
+**Github** - for storage of my website 
+**Python** - via terminal to preview my website 
+**HTML5** - the core was built using HTML version 5 
+**CSS** - was used to style the website 
+**Youtube** - embedded a link to a youtube video on the landing page about Slow design 
+**Font awesome** - I used icons and font from Font awesome 
+**Google chrome** - Slow design was built and tested with Google Chrome 
+**Cloud convert** - was used for converting jpg images to webp better suitable for the page
 
 # Deployment 
 
