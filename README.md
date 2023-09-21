@@ -59,8 +59,15 @@ By using suitable media queries and checking these throughout the process, the w
 # Design
 The idea was to keep the aesthetic aligned with the concept of Slow Design. Less is more, with a focus on clean and minimalistic design. I also wanted the website to have a feeling of a printed magazine, therefore I chose to use a serif font. Which is typically used for printed magazines. 
 
+## Color palette
+The colors of the website were kept basic to be in line with Slow Design. A way of creating a clean base to let the imagery stand out and take space. 
+
+<img width="1402" alt="Skärmavbild 2023-09-22 kl  00 24 53" src="https://github.com/idamariasofie/slow-design/assets/142444139/d83c1831-fca8-4e97-b204-6b44e5438daf">
+
 ## Typography
 Lora was selected as the font for the website, to give it an authentic feeling of a printed magazine. 
+
+<img width="1295" alt="Skärmavbild 2023-09-21 kl  08 34 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/c4f5a74e-bd85-48e3-811c-da3ecf0b9e65">
 
 
 ## Imagery
@@ -77,13 +84,22 @@ My wireframes for the website was designed in Balsamiq. I have used the original
 Navbar
 Below are two views of the navbar on the desktop view and the responsive mobile view, where it transforms into a hamburger menu. 
 
+<img width="766" alt="Skärmavbild 2023-09-21 kl  12 04 11" src="https://github.com/idamariasofie/slow-design/assets/142444139/a5b7d5a5-0f74-4380-917d-02591ee37766">
 
 Mobile view 
 
+<img width="350" alt="Skärmavbild 2023-09-21 kl  12 04 24" src="https://github.com/idamariasofie/slow-design/assets/142444139/391dd815-a238-4959-b11a-179b4d8dd21a">
 
 
 Footer with social media icons to Facebook, Twitter, Youtube and Instagram
 I added four social media icons to link to Facebook, Twitter, Youtube and Instagram. They are sourced from Font awesome and in black to align with the rest of the website. 
+
+<img width="1427" alt="Skärmavbild 2023-09-22 kl  00 30 29" src="https://github.com/idamariasofie/slow-design/assets/142444139/92e0b59c-5e23-4673-b53f-2e1f9b8d7556">
+
+Mobile view
+
+<img width="351" alt="Skärmavbild 2023-09-22 kl  00 30 15" src="https://github.com/idamariasofie/slow-design/assets/142444139/9a4bfea9-8901-4f6a-84e0-da35a569aa49">
+
 
 # Features by page
 
@@ -91,11 +107,20 @@ I added four social media icons to link to Facebook, Twitter, Youtube and Instag
 On this page I wanted the user to get a feeling of the visual identity of the publication directly. 
 This page has a carefully selected hero image, a short introduction text, a smaller image linked to the info page and a video explaining the concept of Slow Design. Below each section page dividers has been added to create more space and structure. 
 
+<img width="1431" alt="Skärmavbild 2023-09-22 kl  00 32 42" src="https://github.com/idamariasofie/slow-design/assets/142444139/e40bf230-3adc-4f57-b64d-3dac845b8a44">
+
+
 ## Info page
 This page shows a scrolling image gallery showing the typical content of the publication and some of the brands within Slow Design and sustainability. 
 
+<img width="1432" alt="Skärmavbild 2023-09-22 kl  00 33 17" src="https://github.com/idamariasofie/slow-design/assets/142444139/353a3909-6ef6-4514-b356-2e3c06201d49">
+
+
 ## Subscribe page 
 This page was designed with a form to subscribe to the digital and printed publication. 
+
+<img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/445edfad-f87f-4f9d-bc86-b56808ef9938">
+
 
 ## Future ideas
 For the future, I would like to add more pages with interviews and articles within the field, and being able to scroll through these. 
