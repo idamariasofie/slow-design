@@ -1,6 +1,6 @@
 # Slow Design
 
-This is the static website of Slow Design. A print and digital publication dedicated to Slow Design. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription. 
+This is the static website of Slow Design. A print and digital publication dedicated to Slow Design, a collaborative way of designing and creating products made to last longer. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community, with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription.
 
 # Content
 
@@ -39,23 +39,22 @@ This is the static website of Slow Design. A print and digital publication dedic
 
 # Target audience 
 
-All people that are interested in high quality design, and have a passion and interest for sustainability. 
+All people that are interested in Scandinavian design and have a passion and interest for sustainability and creating better products with a smaller footprint. The website is fairly basic but with an intention to give the user a preview of the digital and print publication. A short description of the publication together with images and a video to explain the concept of Slow Design on the landing page showcasting typical content from this publication. On the info page there is a scrolling gallery with beautiful images to show examples of material from the publication. Then there is a subscribe page to sign up for the publication. 
 
 ## User experience 
 
-The idea was to keep the aesthetic aligned with the origin of Slow Design in mind. Less is more, with a focus on clean and minimalistic design. I also wanted the website to have a feeling of a printed magazine, therefore I chose to use a serif font. Which is typically used for printed magazines. 
+
 
 ## User stories
 
-The idea was to keep the aesthetic aligned with the origin of Slow Design in mind. Less is more, with a focus on clean and minimalistic design. I also wanted the website to have a feeling of a printed magazine, therefore I chose to use a serif font. Which is typically used for printed magazines. 
+
 
 # Design
-
-Lora was selected as the font for the website, to give it an authentic feeling of a printed magazine. 
+The idea was to keep the aesthetic aligned with the concept of Slow Design in mind. Less is more, with a focus on clean and minimalistic design. I also wanted the website to have a feeling of a printed magazine, therefore I chose to use a serif font. Which is typically used for printed magazines. 
 
 ## Typography
+Lora was selected as the font for the website, to give it an authentic feeling of a printed magazine. 
 
-All images were carefully selected to fit the theme of Slow Design and the products I imagine they would cover. 
 
 ## Imagery
 
@@ -63,7 +62,7 @@ All images were carefully selected to fit the theme of Slow Design and the produ
 
 ## Wireframes
 
-All images were carefully selected to fit the theme of Slow Design and the products I imagine they would cover. 
+
 
 # Features
 
