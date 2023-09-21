@@ -165,10 +165,28 @@ HTML and CSS
 
 **Coolors** - Was used for creating a color palette 
 
+# Unfixed Bugs
+I found a bug when I decided to change the image on subscribe page to a background image. This was due to the fact that I had forgot to remove the former image from the subscribe.html page. I removed this and made sure it was working as intended. 
+
+Fixed bug
+
+<img width="749" alt="Skärmavbild 2023-09-21 kl  21 37 22" src="https://github.com/idamariasofie/slow-design/assets/142444139/09732d9c-955f-4a52-828b-8e7a883fd3b2">
+
+Final version of subscribe page with a background image covering the screen
+
+<img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/06a3402b-1be0-44e1-8aa3-ee87c8ad93ba">
+
+
+
 
 # Deployment and local deployment
 
-I deployed everything from the website onto github-pages. Following the guide from Love running. 
+I deployed the website to Github pages. The steps to do this are the following:
+Login to Github
+In the Github repository, navigate to settings 
+From the source section, click on drop down menu and select Master Branch
+Once this has been selected, the link to the complete website was provided
+
 
 ## Local deployment
 
