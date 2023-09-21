@@ -105,8 +105,6 @@ For the future, I would like to add more pages with interviews and articles with
 HTML and CSS 
 
 ## Frameworks and libraries
-
-### Github
 **Codeanywhere** - the IDE for coding and pushing all changes 
 
 **Github** - for storage of my website 
