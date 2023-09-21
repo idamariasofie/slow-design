@@ -1,6 +1,8 @@
 # Slow Design
 
-![amiresponsive](assets/readme-images/Skärmavbild 2023-09-21 kl. 23.55.17.png)
+<img width="869" alt="Skärmavbild 2023-09-21 kl  23 55 17" src="https://github.com/idamariasofie/slow-design/assets/142444139/3a0b81a2-5387-4e3f-ba3b-c17d312bc38f">
+
+
 This is the static website of Slow Design [https://idamariasofie.github.io/slow-design/](https://idamariasofie.github.io/slow-design/). A print and digital publication dedicated to Slow Design, a collaborative way of designing and creating products made to last longer. From high quality products, to interviews with creative people, to video content, the mission is to showcase and support the local Scandinavian design community, with a focus on sustainabilty. The website is designed to be responsive on all devices and being functional so that users can sign up for a subscription.
 
 # Content
