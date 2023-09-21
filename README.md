@@ -166,9 +166,26 @@ HTML and CSS
 **Coolors** - Was used for creating a color palette 
 
 
-# Deployment 
+# Deployment and local deployment
 
 I deployed everything from the website onto github-pages. Following the guide from Love running. 
+
+## Local deployment
+
+How to Clone
+
+Log into your account on github
+Go to the repository of this project /idamariasofie/slowdesign/
+Click on the code button, and copy your preferred clone link.
+Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
+
+How to Fork
+
+To fork the repository:
+Log in (or sign up) to Github.
+Go to the repository for this project, idamariasofie/slowdesign
+Click the Fork button in the top right corner.
 
 # Testing
 
@@ -176,7 +193,18 @@ All pages have been tested on
 
 ### Jigsaw CSS validator 
 
+<img width="1301" alt="Skärmavbild 2023-09-22 kl  00 53 28" src="https://github.com/idamariasofie/slow-design/assets/142444139/920e9272-ba83-46b6-a831-99a017d86fce">
+
+Pass after testing CSS 
+
 ### W3C validator 
+
+<img width="1420" alt="Skärmavbild 2023-09-21 kl  23 00 56" src="https://github.com/idamariasofie/slow-design/assets/142444139/29000a73-b4bf-4378-bd4b-9b4a15bb1fad">
+
+<img width="1427" alt="Skärmavbild 2023-09-21 kl  23 01 17" src="https://github.com/idamariasofie/slow-design/assets/142444139/c2f66902-7df9-40ff-b770-72979ded5eb5">
+
+<img width="1416" alt="Skärmavbild 2023-09-21 kl  23 01 52" src="https://github.com/idamariasofie/slow-design/assets/142444139/552e4686-9677-4165-a554-2ec902e6b7da">
+
 
 ### Lighthouse 
 I have used Chrome's Lighthouse tool, to check the performance of Slow Design. At first it was slowed down by large images (jpg format). I then converted all images to webp by using https://cloudconvert.com/webp-converter which made a big difference. Below are the final result after using the image converter. 
