@@ -181,7 +181,11 @@ Final version of subscribe page with a background image covering the screen
 
 <img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/06a3402b-1be0-44e1-8aa3-ee87c8ad93ba">
 
+When validating my index.html on W3C I got an error message, saying ""The frameborder attribute on the iframe element is obsolete. Use CSS instead."
 
+Researched this and found a guide on how to solve this problem.
+
+https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
 
 
 # Deployment and local deployment
@@ -274,6 +278,9 @@ https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
 
 Guide to make a youtube video responsive 
 https://www.youtube.com/watch?v=9YffrCViTVk
+
+Guide to fix obsolete element
+https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
 
 ## Written content
 
