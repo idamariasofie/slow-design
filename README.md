@@ -186,7 +186,7 @@ HTML and CSS
 
 # Unfixed Bugs
 
-I found a bug when I decided to change the image on subscribe page to a background image. This was due to the fact that I had forgot to remove the former image from the subscribe.html page. I removed this and made sure it was working as intended.
+I found a bug when I wanted to change the image on subscribe page to a background image. This was due to the fact that I had forgot to remove the former image from the subscribe.html page. I removed this and made sure it was working as intended.
 
 Fixed bug
 
@@ -195,6 +195,12 @@ Fixed bug
 Final version of subscribe page with a background image covering the screen
 
 <img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/06a3402b-1be0-44e1-8aa3-ee87c8ad93ba">
+
+Unfixed bug 
+On the gallery page, there is one headline moving over one of the photos on Ipad screen. 
+I discovered this, and manage to fix it on all other screens except for Ipad. 
+
+<img width="600" alt="infp-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.39.01.png">
 
 # Deployment and local deployment
 
