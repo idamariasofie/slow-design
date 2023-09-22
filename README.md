@@ -68,13 +68,13 @@ By using suitable media queries and checking these throughout the process, the w
 Below are three descriptions of personas I visualized when designing the Slow Design website.
 
 Persona 1:
-30-55 years, education in design/ architecture/ lifestyle. Has a personal interest in Slow living and creating a better life with high quality products as a part of it.
+30-60 years, education in design/ architecture/ lifestyle. Has a personal interest in Slow living and creating a better life with high quality products as a part of it.
 
 Persona 2:
-30-65 years, educator within the field of design, want to be informed about the latest updates within sustainable design and what is coming next. Upcoming brands etc.
+30-60 years, educator within the field of design, want to be informed about the latest updates within sustainable design and what is coming next. Upcoming brands etc.
 
 Persona 3:
-20- 65 years, working with trend-forecasting, with a focus on the Scandinavian market. Wants to stay updated on several fields of design.
+30- 60 years, working with trend-forecasting, with a focus on the Scandinavian market. Wants to stay updated on several fields of design.
 
 # Design
 
