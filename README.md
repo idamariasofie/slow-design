@@ -88,6 +88,11 @@ All images were carefully selected to fit the theme, and the products I imagine 
 ## Wireframes
 My wireframes for the website was designed in Balsamiq. I have used the original wireframes as the basic structure for the website, but these have also been devloped through the process. When I realised some material and placement of these would be better changed. I think the wireframes will be a more helpful tool going forward and when my knowledge grows. 
 
+<img width="700" alt="Skärmavbild 2023-09-22 kl  08 18 17" src="https://github.com/idamariasofie/slow-design/assets/142444139/a490cc84-c7ad-43ce-ad48-d9484fda853b">
+
+<img width="513" alt="Skärmavbild 2023-09-22 kl  08 19 47" src="https://github.com/idamariasofie/slow-design/assets/142444139/dfd33c04-224e-4d07-8d13-f8f291a38bbd">
+
+<img width="577" alt="Skärmavbild 2023-09-22 kl  08 20 25" src="https://github.com/idamariasofie/slow-design/assets/142444139/dd9cd0fc-b4d9-43a5-9a26-c9e42c1a82a1">
 
 # Features
 
