@@ -100,6 +100,15 @@ All images were carefully selected to fit the theme, and the products I imagine 
 
 My wireframes for the website was designed in Balsamiq. I have used the original wireframes as the basic structure for the website, but these have also been devloped through the process. When I realised some material and placement of these would be better changed. I think the wireframes will be a more helpful tool going forward and when my knowledge grows.
 
+Home page 
+<img width="1295" alt="home-wireframe" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.18.17.png">
+
+Info /gallery page
+<img width="1295" alt="info-wireframe" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.19.47.png">
+
+Subscribe page 
+<img width="1295" alt="subscribe-wireframe" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.20.25.png">
+
 # Features
 
 ## General features
@@ -251,8 +260,6 @@ Info/ Gallery page
 
 Subscribe page 
 <img width="1416" alt="subscribe-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.35.52.png">
-
-
 
 ## Full Testing
 
