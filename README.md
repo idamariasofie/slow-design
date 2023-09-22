@@ -187,7 +187,7 @@ HTML and CSS
 
 I found a bug when I wanted to change the image on subscribe page to a background image. This was due to the fact that I had forgot to remove the former image from the subscribe.html page. I removed this and made sure it was working as intended.
 
-Fixed bug
+## Fixed bugs
 
 <img width="749" alt="Skärmavbild 2023-09-21 kl  21 37 22" src="https://github.com/idamariasofie/slow-design/assets/142444139/09732d9c-955f-4a52-828b-8e7a883fd3b2">
 
@@ -195,12 +195,10 @@ Final version of subscribe page with a background image covering the screen
 
 <img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/06a3402b-1be0-44e1-8aa3-ee87c8ad93ba">
 
-Fixed bug 
-
 When validating the code on my index.html page in W3C, I got this error message "The frameborder attribute on the iframe element is obsolete. Use CSS instead." I found more information about this error after searching and used this guide to fix the problem in my HTML code and added style to CSS instead. 
-https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
+Link to guide: https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
 
-Unfixed bug 
+## Unfixed bug 
 On the gallery page, there is one headline moving over one of the photos on Ipad screen. 
 I discovered this, and manage to fix it on all other screens except for Ipad. 
 
@@ -285,6 +283,9 @@ Course material
 
 Guide to make a youtube video responsive
 <https://www.youtube.com/watch?v=9YffrCViTVk>
+
+Guide to frameborder attribute error message
+<https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead>
 
 ## Written content
 
