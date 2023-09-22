@@ -204,11 +204,7 @@ I discovered this, and manage to fix it on all other screens except for Ipad.
 
 # Deployment and local deployment
 
-I deployed the website to Github pages. The steps to do this are the following:
-Login to Github
-In the Github repository, navigate to settings
-From the source section, click on drop down menu and select Master Branch
-Once this has been selected, the link to the complete website was provided
+I deployed the website to Github pages. The steps to do this are the following. Login to Github, in the Github repository navigate to settings. From the source section, click on drop down menu and select Master Branch. Once this has been selected, the link to the complete website was provided.
 
 ## Local deployment
 
