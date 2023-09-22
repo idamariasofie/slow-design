@@ -243,7 +243,16 @@ subscribe.html - pass
 
 I have used Chrome's Lighthouse tool, to check the performance of Slow Design. At first it was slowed down by large images (jpg format). I then converted all images to webp by using <https://cloudconvert.com/webp-converter> which made a big difference. Below are the final result after using the image converter.
 
-### Wave
+Home page 
+<img width="1416" alt="landing-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.33.35.png">
+
+Info/ Gallery page
+<img width="1416" alt="info-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.35.13.png">
+
+Subscribe page 
+<img width="1416" alt="subscribe-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.35.52.png">
+
+
 
 ## Full Testing
 
