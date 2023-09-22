@@ -30,8 +30,7 @@ This is the static website of Slow Design [https://idamariasofie.github.io/slow-
   - Unfixed bugs
 
 
-- Deployment and local deployment
-	 - Local deployment
+- Deployment 
 
 - Testing
   - Jigsaw CSS validator
@@ -196,32 +195,20 @@ Final version of subscribe page with a background image covering the screen
 
 <img width="1430" alt="Skärmavbild 2023-09-22 kl  00 33 46" src="https://github.com/idamariasofie/slow-design/assets/142444139/06a3402b-1be0-44e1-8aa3-ee87c8ad93ba">
 
+Fixed bug 
+
+When validating the code on my index.html page in W3C, I got this error message "The frameborder attribute on the iframe element is obsolete. Use CSS instead." I found more information about this error after searching and used this guide to fix the problem in my HTML code and added style to CSS instead. 
+https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
+
 Unfixed bug 
 On the gallery page, there is one headline moving over one of the photos on Ipad screen. 
 I discovered this, and manage to fix it on all other screens except for Ipad. 
 
 <img width="600" alt="infp-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.39.01.png">
 
-# Deployment and local deployment
+# Deployment 
 
 I deployed the website to Github pages. The steps to do this are the following. Login to Github, in the Github repository navigate to settings. From the source section, click on drop down menu and select Master Branch. Once this has been selected, the link to the complete website was provided.
-
-## Local deployment
-
-How to Clone
-
-Log into your account on github
-Go to the repository of this project /idamariasofie/slowdesign/
-Click on the code button, and copy your preferred clone link.
-Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
-
-How to Fork
-
-To fork the repository:
-Log in (or sign up) to Github.
-Go to the repository for this project, idamariasofie/slowdesign
-Click the Fork button in the top right corner.
 
 # Testing
 
@@ -269,12 +256,17 @@ Full testing was performed on the following devices
 
 - Laptop:
   - MacBook Pro
+  - DELL Latitude 5420
 - Mobile Devices:
   - Iphone 12
+  - Ihpone 12 pro
 
 On these devices I used Google Chrome and Safari to test the website.
 
 My husband and family made additional tests on their devices with different screen sizes to see how it looked.
+
+<img width="900" alt="subscribe-page" src="assets/readme-images/Skärmavbild 2023-09-22 kl. 08.06.32.png">
+
 
 # Credit
 
