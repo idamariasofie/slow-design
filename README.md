@@ -249,6 +249,9 @@ On these devices I used Google Chrome and Safari to test the website.
 
 My husband and family made additional tests on their devices with different screen sizes to see how it looked. 
 
+<img width="755" alt="Skärmavbild 2023-09-22 kl  08 06 32" src="https://github.com/idamariasofie/slow-design/assets/142444139/1dca74b9-992a-4e48-a61f-c1f8bce859eb">
+
+
 # Credit
 
 ## Code 
