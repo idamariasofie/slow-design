@@ -187,6 +187,15 @@ Researched this and found a guide on how to solve this problem.
 
 https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead
 
+Unfixed bug
+
+When viewing the website on Ipad, one of the headlines moves over the "female artist in studio" image. I have managed to fix this on all other screen views except for Ipad. 
+
+<img width="379" alt="Skärmavbild 2023-09-22 kl  08 39 01" src="https://github.com/idamariasofie/slow-design/assets/142444139/8368c711-f0f0-47c1-b4c8-aec13418a0cd">
+
+
+
+
 
 # Deployment and local deployment
 
@@ -195,7 +204,6 @@ Login to Github
 In the Github repository, navigate to settings 
 From the source section, click on drop down menu and select Master Branch
 Once this has been selected, the link to the complete website was provided
-
 
 ## Local deployment
 
@@ -243,7 +251,18 @@ subscribe.html - pass
 ### Lighthouse 
 I have used Chrome's Lighthouse tool, to check the performance of Slow Design. At first it was slowed down by large images (jpg format). I then converted all images to webp by using https://cloudconvert.com/webp-converter which made a big difference. Below are the final result after using the image converter. 
 
-### Wave 
+Home page 
+
+<img width="617" alt="Skärmavbild 2023-09-22 kl  08 33 35" src="https://github.com/idamariasofie/slow-design/assets/142444139/a9420ea0-2f8e-4773-b004-e51c49239eec">
+
+Info/ gallery page 
+
+<img width="618" alt="Skärmavbild 2023-09-22 kl  08 35 13" src="https://github.com/idamariasofie/slow-design/assets/142444139/b431e840-6f27-47f1-85d3-adb255197bb6">
+
+Subscribe page 
+
+<img width="596" alt="Skärmavbild 2023-09-22 kl  08 35 52" src="https://github.com/idamariasofie/slow-design/assets/142444139/b9bc1234-cbed-4f3a-ba36-f58b838d6e96">
+
 
 ## Full Testing 
 
