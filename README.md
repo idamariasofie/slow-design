@@ -8,27 +8,42 @@ This is the static website of Slow Design [https://idamariasofie.github.io/slow-
 
 - Target audience
 	 - User experience
+	 - User stories
 
 - Design
-	 - Colors
+	 - Color palette
 	 - Typography
 	 - Images
 	 - Wireframes
 
 - Features
-	 - General features on each page
+	 - General features
+	 - Features by page 
 	 - Future ideas
   
-- Technologies used
+- Technology
 	 - Languages
-	 - Frameworks, libraries
+	 - Frameworks and libraries
 
-- Deployment
+- Unfixed bugs
+  - Fixed bugs 
+  - Unfixed bugs
+
+
+- Deployment and local deployment
 	 - Local deployment
 
 - Testing
+  - Jigsaw CSS validator
+  - W3C validator
+  - Lighthouse
+  - Full testing
 
 - Credit
+  - Code
+  - Written content
+  - Media
+  - Aknowledgement
 
 # Target audience
 
